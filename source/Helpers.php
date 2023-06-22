@@ -14,12 +14,21 @@ function site(string $param = null): string
 }
 
 /**
+ * @param string $imageUrl
+ * @return string
+ */
+function routeImage(string $imageUrl): string
+{
+    return "https:://via.placeholder.com/1200x628/0984e3/FFFFFFF?text={$imageUrl}";
+}
+
+/**
  * @param string $path
  * @return string
  */
 function asset(string $path): string
 {
-    return SITE["root"]."/views/assets/{$path}";
+    return SITE["root"] . "/views/assets/{$path}";
 }
 
 /**

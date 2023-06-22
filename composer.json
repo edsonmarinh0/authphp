@@ -1,14 +1,14 @@
 {
-    "name": "edsonmarinh0/authphp",
+    "name": "robsonvleite/authphp",
     "description": "Uma simples peça de login para o seu quebra-cabeças, Código Aberto :)",
     "minimum-stability": "stable",
     "license": "MIT",
     "authors": [
         {
-            "name": "Edson M. Júnior",
-            "email": "marinhoedson@gmail.com",
+            "name": "Robson V. Leite",
+            "email": "cursos@upinside.com.br",
             "role": "Developer",
-            "homepage": "https://www.linkedin.com/in/marinhoedson/"
+            "homepage": "https://fsphp.com.br"
         }
     ],
     "autoload": {

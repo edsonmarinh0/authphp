@@ -18,8 +18,8 @@ class ComposerStaticInitb155efe116b0645e1ddde6c183118bbb
         '8820aeeedd1a43d7aaf34fb0f7889b79' => __DIR__ . '/..' . '/codephix/plates/src/Extension/LayoutSections/layout-sections.php',
         '58f3332935180b4c0fbdbd08a09ef95d' => __DIR__ . '/..' . '/codephix/plates/src/Extension/Folders/folders.php',
         '7533ea047b8fd481a3bacd7fa26eadfb' => __DIR__ . '/..' . '/codephix/plates/src/Util/util.php',
-        'f831a55d2d39dc47f382de6706fab0d4' => __DIR__ . '/../..' . '/source/Config.php',
-        'bee073b0f4f3e4e4f4f64692efb71fca' => __DIR__ . '/../..' . '/source/Helpers.php',
+        'd45c08f83f013a03b38a03f1615da8fd' => __DIR__ . '/../..' . '/source/Config.php',
+        '897cdedcf9747bdf828c6c91b03006e4' => __DIR__ . '/../..' . '/source/Helpers.php',
     );
 
     public static $prefixLengthsPsr4 = array (

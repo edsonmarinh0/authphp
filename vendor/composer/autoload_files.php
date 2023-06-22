@@ -17,6 +17,6 @@ return array(
     '8820aeeedd1a43d7aaf34fb0f7889b79' => $vendorDir . '/codephix/plates/src/Extension/LayoutSections/layout-sections.php',
     '58f3332935180b4c0fbdbd08a09ef95d' => $vendorDir . '/codephix/plates/src/Extension/Folders/folders.php',
     '7533ea047b8fd481a3bacd7fa26eadfb' => $vendorDir . '/codephix/plates/src/Util/util.php',
-    'f831a55d2d39dc47f382de6706fab0d4' => $baseDir . '/source/Config.php',
-    'bee073b0f4f3e4e4f4f64692efb71fca' => $baseDir . '/source/Helpers.php',
+    'd45c08f83f013a03b38a03f1615da8fd' => $baseDir . '/source/Config.php',
+    '897cdedcf9747bdf828c6c91b03006e4' => $baseDir . '/source/Helpers.php',
 );

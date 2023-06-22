@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "109e0d4abbbf5df67ab3cd16ae6a719b",
+    "content-hash": "dbb69156498414428a213c0e5c6619c5",
     "packages": [
         {
             "name": "codephix/plates",
